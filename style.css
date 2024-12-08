@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+}
+
+h1{
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+i{
+    font-size: 8em;
+    cursor: pointer;
+}
